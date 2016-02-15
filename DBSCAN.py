@@ -3,7 +3,6 @@
 This is an implementation of DBSCAN following the pseudo code presented in the original paper "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise".
 As a simple program to verify the algorithm, I didn't use R* tree as mentioned in the paper for speed acceleration.
 
-Created on 15.02.2016 by YangZhao
 """
 import math
 import matplotlib.pyplot as plt
